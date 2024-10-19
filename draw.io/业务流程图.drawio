@@ -184,6 +184,11 @@
             <mxPoint x="890" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-Q3ciUpYbMfR-4Uyct9-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-49" value="阅读" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="1430" width="100" height="40" as="geometry" />
         </mxCell>
@@ -202,20 +207,23 @@
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-Q3ciUpYbMfR-4Uyct9-86" target="C-Q3ciUpYbMfR-4Uyct9-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-Q3ciUpYbMfR-4Uyct9-86" target="C-Q3ciUpYbMfR-4Uyct9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-86" value="输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="1189" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-94" value="app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1299" width="120" height="60" as="geometry" />
+        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-94" value="桌面端应用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-95" value="移动端" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1300" width="120" height="60" as="geometry" />
+        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-95" value="手机web端" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-96" value="小程序" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="836.5" y="1299" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-97" value="网页端" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="697" y="1301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C-Q3ciUpYbMfR-4Uyct9-49" target="C-Q3ciUpYbMfR-4Uyct9-95">
           <mxGeometry relative="1" as="geometry" />
@@ -225,6 +233,9 @@
         </mxCell>
         <mxCell id="C-Q3ciUpYbMfR-4Uyct9-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C-Q3ciUpYbMfR-4Uyct9-86" target="C-Q3ciUpYbMfR-4Uyct9-95">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-Q3ciUpYbMfR-4Uyct9-114" value="移动端app" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="1299" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
