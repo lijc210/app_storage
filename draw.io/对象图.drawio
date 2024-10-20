@@ -1,9 +1,186 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="第 1 页" id="EIssUKzISOBDyBo6ZQyO">
-    <mxGraphModel>
+    <mxGraphModel dx="1084" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-1" value="新浪" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.363636363636363;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="277" height="138.36363636363637" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-2" value="媒体编号: 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-1">
+          <mxGeometry y="25.363636363636363" width="277" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-3" value="媒体名称: 新浪" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-1">
+          <mxGeometry y="50.36363636363636" width="277" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-4" value="媒体链接: https://news.sina.com.cn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-1">
+          <mxGeometry y="75.36363636363636" width="277" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-5" value="所在区域: 国内" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-1">
+          <mxGeometry y="100.36363636363636" width="277" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-6" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-1">
+          <mxGeometry y="125.36363636363636" width="277" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-7" value="体育" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25.363636363636363;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="122" height="138.36363636363637" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-8" value="分类编号: 101" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry y="25.363636363636363" width="122" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-9" value="分类名称: 体育" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry y="50.36363636363636" width="122" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-10" value="是否显示: 是" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry y="75.36363636363636" width="122" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-11" value="显示顺序: 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry y="100.36363636363636" width="122" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-12" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry y="125.36363636363636" width="122" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-13" value="新浪体育" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24.157894736842106;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="40" width="284" height="228.1578947368421" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-14" value="媒体分类编号: 1001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="24.157894736842106" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-15" value="媒体编号: 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="48.15789473684211" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-16" value="媒体名称: 新浪" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="72.15789473684211" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-17" value="原分类名称: 体育" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="96.15789473684211" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-18" value="标准分类编号: 101" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="120.15789473684211" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-19" value="标准分类名称: 体育" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="144.1578947368421" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-20" value="分类链接: https://sports.sina.com.cn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="168.1578947368421" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-21" value="分类状态: 正常" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="192.1578947368421" width="284" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-22" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry y="216.1578947368421" width="284" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-23" value="新闻1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=23.76;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="786" y="480" width="348" height="299.76" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-24" value="新闻编号: 5001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="23.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-25" value="媒体分类编号: 1001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="47.760000000000005" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-26" value="新闻标题: 新浪体育新闻" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="71.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-27" value="新闻链接哈希值: abc123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="95.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-28" value="新闻链接: https://sports.sina.com.cn/article1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="119.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-29" value="新闻内容: 这是新闻的正文" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="143.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-30" value="发布时间: 2024-10-20 09:00:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="167.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-31" value="处理状态: 处理成功" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="191.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-32" value="处理结果: 写入成功" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="215.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-33" value="创建时间: 2024-10-20 10:00:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="239.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-34" value="更新时间: 2024-10-20 12:00:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="263.76" width="348" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-35" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry y="287.76" width="348" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-36" value="用户1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24.6;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="261" height="186.6" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-37" value="用户编号: 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="24.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-38" value="用户邮箱: user1@example.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="49.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-39" value="手机号: 1234567890" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="74.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-40" value="验证码: 1234" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="99.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-41" value="喜爱分类: [&quot;体育&quot;, &quot;科技&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="124.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-42" value="验证码发送时间: 2024-10-20 09:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="149.6" width="261" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-43" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-36">
+          <mxGeometry y="174.6" width="261" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-44" value="新闻摘要1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="527.76" width="330" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-45" value="新闻链接哈希值: abc123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="24" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-46" value="新标题: AI 改写后的体育新闻" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="48" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-47" value="新闻标签: [&quot;体育&quot;, &quot;赛事&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="72" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-48" value="分类编号: 101" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="96" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-49" value="创建时间戳: 1729389600000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="120" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-50" value="发布时间戳: 1729386000000" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="144" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-51" value="较短新闻摘要: 这是一条较短的体育新闻" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="168" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-52" value="中等新闻摘要: 这是一条中等长度的体育新闻" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="192" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-53" value="较长新闻摘要: 这是一条较长的体育新闻" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="216" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-54" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry y="240" width="330" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-55" value="" style="curved=1;startArrow=none;endArrow=block;endSize=16;endFill=0;rounded=0;" edge="1" parent="1" source="B4RUf2agkHMVfrZ-UE8A-1" target="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-56" value="" style="curved=1;startArrow=none;endArrow=block;endSize=16;endFill=0;rounded=0;" edge="1" parent="1" source="B4RUf2agkHMVfrZ-UE8A-7" target="B4RUf2agkHMVfrZ-UE8A-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-57" value="" style="curved=1;startArrow=none;endArrow=block;endSize=16;endFill=0;rounded=0;" edge="1" parent="1" source="B4RUf2agkHMVfrZ-UE8A-13" target="B4RUf2agkHMVfrZ-UE8A-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-58" value="" style="curved=1;startArrow=none;endArrow=block;endSize=16;endFill=0;rounded=0;" edge="1" parent="1" source="B4RUf2agkHMVfrZ-UE8A-36" target="B4RUf2agkHMVfrZ-UE8A-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B4RUf2agkHMVfrZ-UE8A-59" value="" style="curved=1;startArrow=none;endArrow=block;endSize=16;endFill=0;rounded=0;" edge="1" parent="1" source="B4RUf2agkHMVfrZ-UE8A-23" target="B4RUf2agkHMVfrZ-UE8A-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
