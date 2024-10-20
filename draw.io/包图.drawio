@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.8.0">
-  <diagram name="第 1 页" id="5MXxclTbjZKI9ifR7EZV">
-    <mxGraphModel>
+  <diagram name="Page-1" id="5MXxclTbjZKI9ifR7EZV">
+    <mxGraphModel dx="1445" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-140" value="登录认证" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-141" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;+邮箱登录&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;+手机号登录&lt;br style=&quot;font-size: 18px;&quot;&gt;+第三方登录&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-140">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-142" value="主窗口" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="675" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-143" value="～登录认证&lt;br style=&quot;font-size: 18px;&quot;&gt;～个人中心&lt;div style=&quot;font-size: 18px;&quot;&gt;～新闻阅读&lt;br style=&quot;font-size: 18px;&quot;&gt;～新闻处理&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-142">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-144" value="新闻阅读" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="950" y="660" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-145" value="&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻分类筛选&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻分类排序&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻获取&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻搜索&lt;br style=&quot;font-size: 18px;&quot;&gt;+阅读历史记录&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻收藏&lt;br style=&quot;font-size: 18px;&quot;&gt;+客户端" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-144">
+          <mxGeometry width="200" height="126" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-146" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="900" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-147" target="7xmNA0W8tLS-MT6mM1au-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-178" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-161">
+          <mxGeometry x="-0.0409" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-147" value="个人中心" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-148" value="+查看个人信息&lt;br style=&quot;font-size: 18px;&quot;&gt;+修改个人信息&lt;br style=&quot;font-size: 18px;&quot;&gt;+个人喜好设置&lt;br style=&quot;font-size: 18px;&quot;&gt;+退出登录功能" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-147">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-149" target="7xmNA0W8tLS-MT6mM1au-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-183" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-169">
+          <mxGeometry x="-0.0905" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-149" value="新闻处理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="970" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-150" value="-数据爬取&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻分类与标签管理&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻摘要生成&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;-数据存储&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-149">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=65;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-140" target="7xmNA0W8tLS-MT6mM1au-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-181" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-155">
+          <mxGeometry x="-0.1899" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-149" target="7xmNA0W8tLS-MT6mM1au-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=150;entryDy=82.5;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-144" target="7xmNA0W8tLS-MT6mM1au-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-180" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-162">
+          <mxGeometry x="0.03" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-163" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="970" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-164" value="数据爬取" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="970" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-165" value="- 各大新闻媒体网站的数据&lt;br style=&quot;font-size: 18px;&quot;&gt;- 数据去重与过滤&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;- 定时任务与增量更新&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-164">
+          <mxGeometry width="220" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=150;entryDy=65;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-149" target="7xmNA0W8tLS-MT6mM1au-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-182" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-166">
+          <mxGeometry x="0.0556" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-167" value="摘要生成" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1260" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-168" value="-AI 模型训练&lt;br style=&quot;font-size: 18px;&quot;&gt;-生成不同长度的新闻摘要&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-167">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-170" value="数据存储" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="970" y="970" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-171" value="-数据库设计与优化&lt;span style=&quot;white-space: pre; font-size: 18px;&quot;&gt;&#x9;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;-数据备份与恢复&lt;div style=&quot;font-size: 18px;&quot;&gt;-数据安全与隐私保护&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-170">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-172" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;lt;&amp;lt;import&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=65;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-149" target="7xmNA0W8tLS-MT6mM1au-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-173" value="客户端" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="950" y="390" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-174" value="+PWA 离线阅读&lt;br style=&quot;font-size: 18px;&quot;&gt;+跨平台打包&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-173">
+          <mxGeometry width="200" height="105" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="7xmNA0W8tLS-MT6mM1au-173" target="7xmNA0W8tLS-MT6mM1au-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xmNA0W8tLS-MT6mM1au-179" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="7xmNA0W8tLS-MT6mM1au-177">
+          <mxGeometry x="-0.0278" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
