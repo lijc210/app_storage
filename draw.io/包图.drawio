@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7xmNA0W8tLS-MT6mM1au-140" value="登录认证" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="150" y="670" width="200" height="150" as="geometry" />
+          <mxGeometry x="110" y="675" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-141" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;+邮箱登录&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;+手机号登录&lt;br style=&quot;font-size: 18px;&quot;&gt;+第三方登录&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-140">
           <mxGeometry width="200" height="105" relative="1" as="geometry">
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-144" value="新闻阅读" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="660" width="200" height="180" as="geometry" />
+          <mxGeometry x="970" y="660" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-145" value="&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻分类筛选&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻分类排序&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻获取&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻搜索&lt;br style=&quot;font-size: 18px;&quot;&gt;+阅读历史记录&lt;br style=&quot;font-size: 18px;&quot;&gt;+新闻收藏&lt;br style=&quot;font-size: 18px;&quot;&gt;+客户端" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-144">
           <mxGeometry width="200" height="126" relative="1" as="geometry">
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-147" value="个人中心" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="550" y="370" width="200" height="150" as="geometry" />
+          <mxGeometry x="550" y="360" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-148" value="+查看个人信息&lt;br style=&quot;font-size: 18px;&quot;&gt;+修改个人信息&lt;br style=&quot;font-size: 18px;&quot;&gt;+个人喜好设置&lt;br style=&quot;font-size: 18px;&quot;&gt;+退出登录功能" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-147">
           <mxGeometry width="200" height="105" relative="1" as="geometry">
@@ -86,7 +86,7 @@
           <mxGeometry x="770" y="970" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-164" value="数据爬取" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="150" y="970" width="220" height="150" as="geometry" />
+          <mxGeometry x="120" y="970" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-165" value="- 各大新闻媒体网站的数据&lt;br style=&quot;font-size: 18px;&quot;&gt;- 数据去重与过滤&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;- 定时任务与增量更新&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-164">
           <mxGeometry width="220" height="105" relative="1" as="geometry">
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-167" value="摘要生成" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1260" width="200" height="150" as="geometry" />
+          <mxGeometry x="550" y="1270" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-168" value="-AI 模型训练&lt;br style=&quot;font-size: 18px;&quot;&gt;-生成不同长度的新闻摘要&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-167">
           <mxGeometry width="200" height="105" relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-170" value="数据存储" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="970" y="970" width="200" height="150" as="geometry" />
+          <mxGeometry x="990" y="970" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-171" value="-数据库设计与优化&lt;span style=&quot;white-space: pre; font-size: 18px;&quot;&gt;&#x9;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;-数据备份与恢复&lt;div style=&quot;font-size: 18px;&quot;&gt;-数据安全与隐私保护&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-170">
           <mxGeometry width="200" height="105" relative="1" as="geometry">
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-173" value="客户端" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="950" y="390" width="200" height="150" as="geometry" />
+          <mxGeometry x="970" y="360" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7xmNA0W8tLS-MT6mM1au-174" value="+PWA 离线阅读&lt;br style=&quot;font-size: 18px;&quot;&gt;+跨平台打包&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;fontSize=18;" vertex="1" parent="7xmNA0W8tLS-MT6mM1au-173">
           <mxGeometry width="200" height="105" relative="1" as="geometry">
