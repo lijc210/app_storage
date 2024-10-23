@@ -1,151 +1,151 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="第 1 页" id="RJrkw_ZQwYnKs6m2VO9h">
-    <mxGraphModel dx="1051" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#fafafa" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-2" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="110" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-3" value="用户登录模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-3" value="用户登录模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="160" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-4" value="被调用：验证服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-4" value="被调用：验证服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-5" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-5" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-6" value="输入：用户邮箱或手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-6" value="输入：用户邮箱或手机号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-7" value="输出：登录成功或失败信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-7" value="输出：登录成功或失败信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-8" value="处理：验证验证码有效性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-8" value="处理：验证验证码有效性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="380" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="430" y="80" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-11" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="110" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-12" value="新闻抓取模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-12" value="新闻抓取模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-13" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-13" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-14" value="调用：调度器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-14" value="调用：调度器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="620" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-15" value="输入：新闻媒体机构及分类链接" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-15" value="输入：新闻媒体机构及分类链接" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-16" value="输出：抓取结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-16" value="输出：抓取结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="620" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-17" value="处理：抓取新闻数据，去重处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-17" value="处理：抓取新闻数据，去重处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="480" y="380" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="49" y="480" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-19" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-19" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="510" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-20" value="新闻处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-20" value="新闻处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="560" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-21" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-21" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-22" value="调用：AI处理服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-22" value="调用：AI处理服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="229" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-23" value="输入：抓取的新闻数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-23" value="输入：抓取的新闻数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-24" value="输出：处理后的新闻数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-24" value="输出：处理后的新闻数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="229" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-25" value="处理：生成摘要和标题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-25" value="处理：生成摘要和标题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="780" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="429" y="480" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-27" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-27" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="510" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-28" value="新闻展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-28" value="新闻展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="560" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-29" value="被调用：前端应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-29" value="被调用：前端应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-30" value="调用：后端服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-30" value="调用：后端服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="619" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-31" value="输入：新闻列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-31" value="输入：新闻列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-32" value="输出：展示的新闻摘要" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-32" value="输出：展示的新闻摘要" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="619" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-33" value="处理：格式化展示内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-33" value="处理：格式化展示内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="780" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="49" y="880" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-35" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-35" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="910" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-36" value="收藏功能模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-36" value="收藏功能模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="960" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-37" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-37" value="被调用：数据库操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-38" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-38" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="229" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-39" value="输入：用户选择的新闻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-39" value="输入：用户选择的新闻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-40" value="输出：收藏成功或失败信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-40" value="输出：收藏成功或失败信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="229" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-41" value="处理：更新用户收藏记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-41" value="处理：更新用户收藏记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="89" y="1180" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="429" y="880" width="350" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-43" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 10.5pt;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-43" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: 等线; font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基于&lt;/font&gt; AI 的新闻摘要&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;阅读&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="910" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-44" value="离线阅读模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-44" value="离线阅读模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="960" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-45" value="被调用：数据缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-45" value="被调用：数据缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-46" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-46" value="调用：用户界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="619" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-47" value="输入：用户已下载的新闻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-47" value="输入：用户已下载的新闻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-48" value="输出：可离线阅读的新闻内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-48" value="输出：可离线阅读的新闻内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="619" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUNYIPg8-Oubdjlijw_3-49" value="处理：提供离线访问功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="CUNYIPg8-Oubdjlijw_3-49" value="处理：提供离线访问功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="479" y="1180" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
